@@ -8,7 +8,7 @@
         "php": "^7.1 || ^8.0"
     },
     "require-dev": {
-        "doctrine/coding-standard": "^9",
+        "oldpak/coding-standard": "^1.0",
         "phpstan/phpstan": "1.4.10 || 1.10.15",
         "phpstan/phpstan-phpunit": "^1.0",
         "phpunit/phpunit": "^7.5 || ^8.5 || ^9.5",
